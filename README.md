@@ -11,7 +11,7 @@
 
 **Deskflow** is a free and open source keyboard and mouse sharing app.
 Use the keyboard, mouse, or trackpad of one computer to control nearby computers,
-and work seamlessly between them.
+and work seamlessly between them. 
 It's like a software KVM (but without the video).
 TLS encryption is enabled by default. Wayland is supported. Clipboard sharing is supported.
 
