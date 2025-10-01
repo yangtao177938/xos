@@ -1,0 +1,15 @@
+{
+  "dependencies": [
+    "qttranslations",
+    "qtsvg",
+    "wintoast",
+    "gtest",
+    "pkgconf",
+    {
+      "name": "openssl",
+      "features": [
+        "tools"
+      ]
+    }
+  ]
+}
